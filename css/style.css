@@ -98,6 +98,9 @@
         max-width: 80%;
         margin: auto;
     }
+    .my-container {
+        padding: 3% 10%;
+    }
 }
 @media (max-width: 500px){
     *{
@@ -112,11 +115,14 @@
     .linkedin, .github, .whatsapp {
         font-size: 25px;
     }
+    .my-container {
+        padding: 3% 0;
+    }
 }
 @media (min-width:700px){
    .head {
-    padding-left: 5%;
-    padding-right: 1%;
+    padding-left: 2%;
+    padding-right: 0;
    }
 }
 @media (max-width: 350px){
