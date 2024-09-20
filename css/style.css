@@ -101,6 +101,9 @@
     .my-container {
         padding: 3% 10%;
     }
+    .name{
+        font-size: .65rem;
+       }
 }
 @media (max-width: 500px){
     *{
